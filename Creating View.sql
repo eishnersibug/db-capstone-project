@@ -1,0 +1,2 @@
+DROP view OrdersView;
+    
